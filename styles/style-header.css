@@ -1,0 +1,34 @@
+header{
+    background-color: #BBBBBB;
+    padding: 20px 0;
+}
+
+.caja{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.navegacion{
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+.navegacion li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+.navegacion a{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+.navegacion a:hover{
+    color: #c78c19;
+    text-decoration: underline;
+}
