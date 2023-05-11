@@ -7,18 +7,12 @@
     margin: 0 auto;
 }
 
-/*.principal{
-    background: #CCCCCC;
-    width: 95%;
-    margin-top: 3px;
-}*/
-
 .titulo-principal{
     text-align: center;
     font-size: 2em;
     margin: 0 0 1em;
 }
 
-.parrafo{
+.principal p{
     margin: 0 0 1em;
 }
