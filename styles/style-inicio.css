@@ -7,63 +7,18 @@
     margin: 0 auto;
 }
 
-.principal{
+/*.principal{
     background: #CCCCCC;
     width: 95%;
     margin-top: 3px;
-}
+}*/
 
-.titulo-centralizado{
+.titulo-principal{
     text-align: center;
-    font-size: 27px;
-    font-weight: bold;
-    padding-top: 45px;
-    padding-bottom: 15px;
+    font-size: 2em;
+    margin: 0 0 1em;
 }
 
 .parrafo{
-    text-align: center;
-    font-size: 18px;
-    margin-left: 40px;
-    margin-right: 40px;
-    padding-top: 10px;
-    padding-bottom: 30px;
-}
-
-.parrafo strong{
-    font-weight: bold;
-}
-
-#mision{
-    font-size: 20px;
-}
-
-.cursiva{
-    font-style: italic;
-}
-
-.resaltado{
-    color: red;
-}
-
-.diferenciales{
-    background: white;
-}
-
-.listaDiferenciales{
-    display: inline-block;
-    list-style-type: disc;
-    vertical-align: top;
-    width: 20%;
-    margin-left: 40px;
-}
-
-.items{
-    font-size: 18px;
-    font-style: italic;
-}
-
-.imagenDiferenciales{
-    width: 50%;
-    margin-left: 250px;
+    margin: 0 0 1em;
 }
