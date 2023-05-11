@@ -16,3 +16,11 @@
 .principal p{
     margin: 0 0 1em;
 }
+
+.principal strong{
+    font-weight: bold;
+}
+
+.principal em{
+    font-style: italic;
+}
