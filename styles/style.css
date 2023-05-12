@@ -32,3 +32,16 @@ header{
     color: #c78c19;
     text-decoration: underline;
 }
+
+footer{
+    text-align: center;
+    background: url("bg.jpg");
+    padding: 40px;
+}
+
+.copyright
+{
+    color: white;
+    font-size: 13px;
+    margin: 20px;
+}
