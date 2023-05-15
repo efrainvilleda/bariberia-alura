@@ -2,7 +2,9 @@
     width: 100%;
 }
 
-.paginaInicio{
+.principal{
+    padding: 3em 0;
+    background: #FEFEFE;
     width: 940px;
     margin: 0 auto;
 }
@@ -34,11 +36,22 @@
 
 .mapa{
     padding: 3em 0;
+    background: linear-gradient(#FEFEFE, #888888);
 }
 
 .mapa p{
     margin: 0 0 2em;
     text-align: center;
+}
+
+.mapaContenido{
+    width: 940px;
+    margin: 0 auto;
+}
+
+.diferenciales{
+    padding: 3em 0;
+    background: #888888;
 }
 
 .contenido-diferenciales{
