@@ -41,6 +41,21 @@
     text-align: center;
 }
 
+.contenido-diferenciales{
+    width: 640px;
+    margin: 0 auto;
+}
+
+.listaDiferenciales{
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.items{
+    line-height: 1.5;
+}
+
 .imagenDiferenciales{
     width: 60%;
 }
