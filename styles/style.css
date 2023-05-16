@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 
-body{
-    font-family: 'Montserrat', sans-serif;
-}
-
 header{
     background-color: #BBBBBB;
     padding: 20px 0;
@@ -37,6 +33,10 @@ header{
 .navegacion a:hover{
     color: #c78c19;
     text-decoration: underline;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
 }
 
 footer{
