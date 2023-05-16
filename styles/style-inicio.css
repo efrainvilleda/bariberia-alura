@@ -94,10 +94,15 @@
 
 @media screen and (max-width:480px){
     .principal, .mapaContenido, .contenido-diferenciales, .video{
+        padding: 0 1em;
         width: auto;
     }
 
     .listaDiferenciales, .imagenDiferenciales{
         width: 100%;
+    }
+
+    .imagenDiferenciales{
+        box-shadow: 5px 5px 10px 8px #000000;
     }
 }
