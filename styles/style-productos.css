@@ -50,7 +50,7 @@
 
     .productos li{
         display: block;
-        width: 90%;
+        width: 80%;
         margin: 1em auto;
     }
 }
